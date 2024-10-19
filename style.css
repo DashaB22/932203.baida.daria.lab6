@@ -1,0 +1,94 @@
+body{
+    width:100%;
+    }
+    .demoButtonJs {
+        text-align: center;
+         position:relative;
+      display: inline-flex;
+    }
+    .LeftButtonJs__enter button {
+        width:15em;
+        background-color: red;
+        color: white;
+        padding: 10px 16px;
+        cursor: pointer;
+        font-size: 16px;
+    }
+    .RightButtomJs_enter button {
+        width:15em;
+        background-color:red;
+        color: white;
+        padding: 10px 16px;
+        cursor: pointer;
+        font-size: 16px;
+    }
+    .CenterButtomJs_enter button {
+      width:15em;
+        background-color:red;
+        color: white;
+        padding: 10px 16px;
+        cursor: pointer;
+        font-size: 16px;
+    }
+    .LeftButtonJs__enter button:hover {
+        background-color: #3e8e41;
+    }
+    .RightButtomJs_enter button:hover {
+        background-color: #3e8e41;
+    }
+    .CenterButtomJs_enter button:hover {  position:relative;
+        background-color: #3e8e41;
+    }
+    div.ColumnBlock{
+        margin: auto;
+      min-width: 45em;
+      max-width: 45em;
+    
+      position:relative;
+      display: block;
+    }
+    div.Main_Column{
+      display:flex;
+    width:100%;
+    height: 100%;
+    height:30em;
+      position: relative;
+    }
+    
+    div.LeftColumn{
+      position: relative;
+    width:90%;
+    background-color: blue;
+    }
+    div.LeftColumn50{
+      position: relative;
+    width:50%;
+    background-color: blue;
+    }
+    div.LeftColumn10{
+      position: relative;
+    width:10%;
+    background-color: blue;
+    }
+    div.Right_Column{
+    width: 10%;
+    background-color:green;
+    }
+    div.Right_Column90{
+    width: 90%;
+    background-color:green;
+    }
+    div.Right_Column50{
+      width: 50%;
+      background-color:green;
+    }
+    img.LeftCat{
+      padding:20px;
+    width:70%;
+    height:80%;
+    }
+    img.RightDog{
+      padding:20px;
+    width:70%;
+    height:80%;
+    }
